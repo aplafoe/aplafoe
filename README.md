@@ -13,6 +13,5 @@
  - [X] - PostgreSQL
  - [X] - OOP, TMP, MTP      
 
- - [X] - Basics
  - [X] - Cargo
- - [x] - Tokio
+ - [X] - Tokio
